@@ -1,2 +1,1 @@
-# prueba
-Created with CodeSandbox
+# react-pdf + next js example
